@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## This is Sample React animations project using GSIP lib. (ps: it needs lot of code refactoring as I wrote all code in single day)
+## This is Sample React animations project using GSAP lib. (ps: it needs a lot of code refactoring as I wrote all the code in a single day)
 
 ## Available Scripts
 
